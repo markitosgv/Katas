@@ -1,0 +1,7 @@
+/vendor/
+.idea
+.~lock.*
+/bin
+/spec/*
+/src/*
+composer.lock

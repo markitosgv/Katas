@@ -1,0 +1,17 @@
+{
+    "name": "mccool/bowling-kata",
+    "description": "Uncle Bob's bowling kata done in PHP.",
+    "authors": [
+        {
+            "name": "Shawn McCool",
+            "email": "shawn@heybigname.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {"psr-0": {"": "src"}}
+}
