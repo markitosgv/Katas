@@ -1,10 +1,10 @@
 {
-    "name": "mccool/bowling-kata",
+    "name": "markitosgv/bowling-kata",
     "description": "Uncle Bob's bowling kata done in PHP.",
     "authors": [
         {
-            "name": "Shawn McCool",
-            "email": "shawn@heybigname.com"
+            "name": "Marcos Gómez",
+            "email": "marcosmgv@gmail.com"
         }
     ],
     "require": {
