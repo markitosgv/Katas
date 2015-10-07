@@ -76,4 +76,4 @@ The following is a TDD Kata- an exercise in coding, refactoring and test-first, 
 6. Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
 7. Delimiters can be of any length with the following format:  “//[delimiter]\n” for example: “//[***]\n1***2***3” should return 6
 8. Allow multiple delimiters like this:  “//[delim1][delim2]\n” for example “//[*][%]\n1*2%3” should return 6.
-9. make sure you can also handle multiple delimiters with length longer than one char
+9. make sure you can also handle multiple delimiters with length longer than one char.
